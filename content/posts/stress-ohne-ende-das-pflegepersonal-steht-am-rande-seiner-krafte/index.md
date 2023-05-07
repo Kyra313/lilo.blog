@@ -3,6 +3,7 @@ title = "Stress ohne Ende, das Pflegepersonal steht am Rande seiner Kräfte"
 date = "2023-05-07"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "whatsapp-image-2023-03-01-at-17.54.37-2-.jpeg"
 description = ""
 footnotes = "Abbildung 3: Arzt in der Coronazeit (https://www.pexels.com/photo/man-people-woman-technology-9574557/ )"
