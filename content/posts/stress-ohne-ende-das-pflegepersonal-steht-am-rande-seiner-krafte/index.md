@@ -7,9 +7,7 @@ image = "whatsapp-image-2023-03-01-at-17.54.37-2-.jpeg"
 description = ""
 footnotes = "Abbildung 3: Arzt in der Coronazeit (https://www.pexels.com/photo/man-people-woman-technology-9574557/ )"
 +++
- {{<lead>}}
-
-**Viele Spitäler kämpfen mit einem ernst zu nehmenden Problem: dem Pflegepersonalmangel. Viel zu viele Fachkräfte steigen aus und nur wenige interessieren sich für einen Beruf in der Pflege.**
+ {{<lead>}} **Viele Spitäler kämpfen mit einem ernst zu nehmenden Problem: dem Pflegepersonalmangel. Viel zu viele Fachkräfte steigen aus und nur wenige interessieren sich für einen Beruf in der Pflege.**
 
 {{</lead>}}
 
@@ -21,7 +19,7 @@ Es ist 15 Uhr in einem kleinen Wartezimmer. Es riecht nach Desinfektionsmittel u
 
 Auf einem kleinen Rundgang erfährt man viel über das Spital und sieht auch schon einige Patienten und Patientinnen, welche betreut werden. Dabei erklärt Beatrice ihre Arbeit.
 
-{{<box>}}
+{{<Auffaltbarebox>}}
 
 ### **Beatrice D.**
 
