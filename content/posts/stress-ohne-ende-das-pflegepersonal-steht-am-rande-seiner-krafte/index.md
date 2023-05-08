@@ -16,7 +16,7 @@ Es ist 15 Uhr in einem kleinen Wartezimmer. Es riecht nach Desinfektionsmittel u
 
 Auf einem kleinen Rundgang erfährt man viel über das Spital und sieht auch schon einige Patienten und Patientinnen, welche betreut werden. Dabei erklärt Beatrice ihre Arbeit.
 
-{{<box>}}
+{{<dropdownbox>}}
 
 ### **Beatrice D.**
 
@@ -24,7 +24,7 @@ Auf einem kleinen Rundgang erfährt man viel über das Spital und sieht auch sch
 
 Beatrice D. ist 49 Jahre alt und eine sehr zufriedene Person. Aufgewachsen ist sie in Bern, wo sie auch ihre Ausbildungen abschloss. Beatrice wohnt zusammen mit ihrem Ehemann und ihren zwei Töchtern im Kanton Freiburg. Ihre beiden Töchter sind schon im Teenageralter. Beatrice machte eine Ausbildung als Gesundheits- und Krankenpflegerin. Danach machte sie eine Weiterbildung (oder: bildete sie sich zur Pflegefachfrau in der Intensivmedizin weiter) als Pflegefachfrau in der Intensivmedizin. Momentan arbeitet sie im Sonnenhofspital, Lindenhofspital und Engeriedspital. Im Lindenhofspital arbeitet sie auf der Intensivstation, im Sonnenhofspital auf der Chirurgie gemischt mit Orthopädie (IMC) und im Engeriedspital auf der Notfallstation, IMC und Palliativstation. IMC steht für Intermediate Care. Auf der IMC werden Patienten und Patientinnen versorgt, die zwar keine intensive Behandlung brauchen, aber intensiv pflegerisch betreut und überwacht werden müssen. Die IMC ist eine Zwischenstufe zwischen Intensiv- und Normalstation. Beatrice D. liebt ihre Arbeit, insbesondere gefällt ihr das Team, in dem sie schon seit längerer Zeit arbeitet. Sie hat mittlerweile 30 Jahre Berufserfahrung, in welchen sie schon viel erlebt und gesehen hat. 
 
-{{</box>}}
+{{</dropdownbox>}}
 
 Momentan seien die meisten Betten besetzt, erzählt Beatrice. Dies bringt das Pflegepersonal natürlich ins Schwitzen, sagt sie. Aber weshalb sind dann nicht mehr medizinische Fachkräfte im Einsatz? 
 
@@ -52,7 +52,7 @@ Seit einem Jahr gelten die Covidmassnahmen in der Schweiz nicht mehr. Die Missst
 
 Die Situation in den Spitälern während Corona hat der Schweizer Bevölkerung die Augen über den Pflegenotstand geöffnet, so dass die Pflegeiniative mit einem deutlichen Ja angenommen wurde. Dank der Pflegeinitiative ist man auf die Unverzichtbarkeit der Pflegefachkräfte in den Spitälern aufmerksam geworden.
 
-{{<box>}}
+{{<dropdownbox>}}
 
 ### **Pflegeiniative: «Für eine starke Pflege»**
 
@@ -66,7 +66,7 @@ In der ersten Etappe geht es um die Finanzierung der Ausbildung. Die Kantone sol
 
 In der zweiten Etappe sollen die Arbeitsbedingungen, die Möglichkeiten der beruflichen Weiterentwicklung und die Entlohnung in der Pflege verbessert werden. Dabei soll auch die Qualität und die Verfügbarkeit der Pflegeleistungen gewährleistet werden. 
 
-{{</box>}}
+{{</dropdownbox>}}
 
 Beatrice D. sagt, dass man auch in der Lindenhofgruppe achtsamer geworden sei. Sie dürfe beispielsweise wünschen, ob sie lieber Tag-, Spät-, oder Nachtdienst arbeiten wolle. Es gebe auch ein Essen, welches den Nachtdienstarbeitenden gratis zur Verfügung gestellt werde. 
 
