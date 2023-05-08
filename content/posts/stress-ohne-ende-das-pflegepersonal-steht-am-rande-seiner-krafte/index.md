@@ -8,7 +8,7 @@ image = "whatsapp-image-2023-03-01-at-17.54.37-2-.jpeg"
 description = ""
 footnotes = "Abbildung 3: Arzt in der Coronazeit (https://www.pexels.com/photo/man-people-woman-technology-9574557/ )"
 +++
-### {{<lead>}} **Viele Spitäler kämpfen mit einem ernst zu nehmenden Problem: dem Pflegepersonalmangel. Viel zu viele Fachkräfte steigen aus und nur wenige interessieren sich für einen Beruf in der Pflege.**{{</lead>}}
+{{<lead>}} **Viele Spitäler kämpfen mit einem ernst zu nehmenden Problem: dem Pflegepersonalmangel. Viel zu viele Fachkräfte steigen aus und nur wenige interessieren sich für einen Beruf in der Pflege.**{{</lead>}}
 
 *Eine Reportage von Kyra Meitinger und Ocean Steiner.*
 
