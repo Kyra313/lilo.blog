@@ -22,8 +22,6 @@ Auf einem kleinen Rundgang erfährt man viel über das Spital und sieht auch sch
 
 ### **Beatrice D.**
 
-![Abbildung 2: Bild von Beatrice D.](whatsapp-image-2023-03-19-at-20.26.07-1-.jpeg)
-
 Beatrice D. ist 49 Jahre alt und eine sehr zufriedene Person. Aufgewachsen ist sie in Bern, wo sie auch ihre Ausbildungen abschloss. Beatrice wohnt zusammen mit ihrem Ehemann und ihren zwei Töchtern im Kanton Freiburg. Ihre beiden Töchter sind schon im Teenageralter. Beatrice machte eine Ausbildung als Gesundheits- und Krankenpflegerin. Danach machte sie eine Weiterbildung (oder: bildete sie sich zur Pflegefachfrau in der Intensivmedizin weiter) als Pflegefachfrau in der Intensivmedizin. Momentan arbeitet sie im Sonnenhofspital, Lindenhofspital und Engeriedspital. Im Lindenhofspital arbeitet sie auf der Intensivstation, im Sonnenhofspital auf der Chirurgie gemischt mit Orthopädie (IMC) und im Engeriedspital auf der Notfallstation, IMC und Palliativstation. IMC steht für Intermediate Care. Auf der IMC werden Patienten und Patientinnen versorgt, die zwar keine intensive Behandlung brauchen, aber intensiv pflegerisch betreut und überwacht werden müssen. Die IMC ist eine Zwischenstufe zwischen Intensiv- und Normalstation. Beatrice D. liebt ihre Arbeit, insbesondere gefällt ihr das Team, in dem sie schon seit längerer Zeit arbeitet. Sie hat mittlerweile 30 Jahre Berufserfahrung, in welchen sie schon viel erlebt und gesehen hat. 
 
 {{</box>}}
