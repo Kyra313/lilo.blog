@@ -18,7 +18,7 @@ Es ist 15 Uhr in einem kleinen Wartezimmer. Es riecht nach Desinfektionsmittel u
 
 Auf einem kleinen Rundgang erfährt man viel über das Spital und sieht auch schon einige Patienten und Patientinnen, welche betreut werden. Dabei erklärt Beatrice ihre Arbeit.
 
-{{<Auffaltbarebox>}}
+{{<box>}}
 
 ### **Beatrice D.**
 
