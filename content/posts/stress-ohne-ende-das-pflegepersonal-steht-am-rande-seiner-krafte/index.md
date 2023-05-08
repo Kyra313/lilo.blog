@@ -22,7 +22,7 @@ Auf einem kleinen Rundgang erfährt man viel über das Spital und sieht auch sch
 
 <details>
 
-<summary> **Beatrice D.** </summary>
+<summary> Beatrice D. </summary>
 
 <br>
 
@@ -64,7 +64,7 @@ Die Situation in den Spitälern während Corona hat der Schweizer Bevölkerung d
 
 <details>
 
-<summary>**Die Pflegeiniative: «Für eine starke Pflege»**</summary>
+<summary> Die Pflegeiniative: «Für eine starke Pflege» </summary>
 <br>
 
 Am 28 November 2021 wurde die Pflegeiniative von der Schweizerbevölkerung mit einem Ja-Anteil von 61 % angenommen. Die Umsetzung erfolgt in zwei Etappen:
