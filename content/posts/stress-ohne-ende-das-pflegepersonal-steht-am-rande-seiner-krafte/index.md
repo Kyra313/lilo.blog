@@ -54,7 +54,7 @@ Zur selben Zeit setzte die Landesregierung die im Gesetz festgehaltenen Limiten 
 
 ![Abbildung 3: Arzt in der Coronazeit ](1.jpg)
 
-Seit einem Jahr gelten die Covidmassnahmen in der Schweiz nicht mehr. Die Missstände und die Unzufriedenheit des Personals kann man vor Ort jedoch immer noch klar erkennen. Neben dem Wunsch nach verbesserten Arbeitsbedingungen und mehr Lohn ist in den Gesprächen auch deutlich geworden, dass vielen die Teamarbeit sehr am Herzen liegt und ein kompetentes Team sowie eine gute Atmosphäre viel zur Zufriedenheit beitragen und sehr wichtig sind für ein gutes Arbeitsklima. Während des Interviews macht Beatrice eine Geste zu einer vorbeigehenden Mitarbeiterin. Es ist ein Herz, was zeigt, dass sie ihre Mitarbeiter und Mitarbeiterinnen sehr mag und eine freundschaftliche Beziehung zu ihnen hat.
+Seit einem Jahr gelten die Covidmassnahmen in der Schweiz nicht mehr. Die Missstände und die Unzufriedenheit des Personals kann man vor Ort jedoch immer noch klar erkennen. Neben dem Wunsch nach verbesserten Arbeitsbedingungen und mehr Lohn wird in den Gesprächen auch deutlich, dass vielen die Teamarbeit sehr am Herzen liegt und ein kompetentes Team sowie eine gute Atmosphäre viel zur Zufriedenheit beitragen und sehr wichtig sind für ein gutes Arbeitsklima. Während des Interviews macht Beatrice eine Geste zu einer vorbeigehenden Mitarbeiterin. Es ist ein Herz, was zeigt, dass sie ihre Mitarbeiter und Mitarbeiterinnen sehr mag und eine freundschaftliche Beziehung zu ihnen hat.
 
 ### **Ein Schimmer der Hoffnung: Die Pflegeiniative**
 
