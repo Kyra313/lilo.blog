@@ -5,11 +5,9 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "whatsapp-image-2023-03-01-at-17.54.37-2-.jpeg"
-description = ""
+description = " {{<lead>}} **Viele Spitäler kämpfen mit einem ernst zu nehmenden Problem: dem Pflegepersonalmangel. Viel zu viele Fachkräfte steigen aus und nur wenige interessieren sich für einen Beruf in der Pflege.**{{</lead>}}"
 footnotes = "Abbildung 3: Arzt in der Coronazeit (https://www.pexels.com/photo/man-people-woman-technology-9574557/ )"
 +++
- {{<lead>}} **Viele Spitäler kämpfen mit einem ernst zu nehmenden Problem: dem Pflegepersonalmangel. Viel zu viele Fachkräfte steigen aus und nur wenige interessieren sich für einen Beruf in der Pflege.**{{</lead>}}
-
 *Eine Reportage von Kyra Meitinger und Ocean Steiner.*
 
 Es ist 15 Uhr in einem kleinen Wartezimmer. Es riecht nach Desinfektionsmittel und nach dem Plastik steriler Handschuhe. Es handelt sich definitiv um ein Spital. Das Licht ist grell, die Wände und die meisten Möbel sind weiss. Alles wirkt sehr elegant und professionell doch gleichzeitig auch kalt und unpersönlich. Mehrere Minuten sind vergangen und noch immer keine Spur der Pflegefachkraft. Warten ist eine typische Situation im Spital. Nach etwa 10 Minuten erklärt die freundliche Person am Empfang, dass die Interviewpartnerin bald kommen würde. Momentan hat sie noch mit einem Notfall zu kämpfen. Es herrscht gerade grosser Stress, Spitalfachkräfte rauschen durch die Gänge und die Hektik ist förmlich spürbar. 20 Minuten nach dem vereinbarten Termin trifft eine freundlich lächelnde Frau im blauen Kittel in den Warteraum. [](<>)[](applewebdata://29ECDC3E-7513-48F5-BDCB-1487EF5AB034#_msocom_1)Es ist die Interviewpartnerin Beatrice D., Pflegefachkraft auf der IMC. Auf dem Weg zum Pausenraum erklärt sie, wie alles hier im Sonnenhofspital funktioniert.
