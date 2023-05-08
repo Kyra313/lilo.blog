@@ -22,7 +22,7 @@ Auf einem kleinen Rundgang erfährt man viel über das Spital und sieht auch sch
 
 <details>
 
-<summary>Beatrice D.</summary>
+### <summary>Beatrice D.</summary>
 
 <br>
 
@@ -62,7 +62,7 @@ Die Situation in den Spitälern während Corona hat der Schweizer Bevölkerung d
 
 {{<box>}}
 
-<details>
+### <details>
 <summary>Pflegeiniative: «Für eine starke Pflege»</summary>
 <br>
 
