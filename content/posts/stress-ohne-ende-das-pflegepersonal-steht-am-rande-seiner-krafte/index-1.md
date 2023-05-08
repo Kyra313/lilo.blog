@@ -1,5 +1,5 @@
 +++
-title = "Stress ohne Ende, das Pflegepersonal steht am Rande seiner Kräfte"
+title = "Stress ohne Ende, das Pflegepersonal steht am Rande seiner Kräfte2"
 date = "2023-05-08"
 draft = false
 pinned = false
