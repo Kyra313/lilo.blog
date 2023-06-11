@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "laptop-g7b797623e_640.jpg"
 +++
-Hallo, Ich bin Kyra und bin im zweiten Gymnasium Jahr. In diesem Jahr muss ich ein Informatik Projekt machen. Ich haben mich dazu entschieden eine Webseite zu gestalten und auf dieser Webseite Informationen über Cookies  zu schreiben. Falls dich dies interessiert kannst du gleich unten auf den link klicken und dir meine Webseite anschauen.
+Hallo, Ich bin Kyra und bin im zweiten Gymnasium Jahr. In diesem Jahr muss ich ein Informatik Projekt machen. Ich haben mich dazu entschieden eine Webseite zu gestalten und auf dieser Webseite Informationen über Cookies  zu schreiben. Falls dich dies interessiert kannst du gleich unten auf den Link klicken und dir meine Webseite anschauen.
 
 <https://kyrameitinger.wixsite.com/what-is-cookies>
 
