@@ -12,4 +12,4 @@ Hallo, Ich bin Kyra und bin im zweiten Gymnasium Jahr. In diesem Jahr muss ich e
 
 Zusätzlich habe ich ein Video zu meinem Vorgehen und meiner Motivation gemacht dies findest du hier:
 
-[Infoproject finished.mov](https://muristalden-my.sharepoint.com/:v:/r/personal/kyra_meitinger_stud_muristalden_ch/Documents/Infoproject%20finished.mov?csf=1&web=1&e=QqxnpU)
+<https://muristalden-my.sharepoint.com/:v:/g/personal/kyra_meitinger_stud_muristalden_ch/EQ4obnf8eZNJu-lT5yw2DBoB8JW5BBMAxlBTc7O0mcGMWw?e=dEV8dL>
